@@ -4,3 +4,9 @@ target
 # Local settings
 .soroban
 .stellar
+
+# Test snapshots
+test_snapshots/
+
+# Test snapshots for hello-world contract
+contracts/hello-world/test_snapshots/
